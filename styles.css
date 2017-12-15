@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+#container {
+    width: 969px;
+    margin: auto;
+}
+
+#person {
+    height: 273px;
+    width: 409px;
+    border: solid 4px #c0c0c0;
+    display: inline;
+}
+
+#header {
+background-color: #f6f6f6;
+}
+
+#header h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 10px;
+    
+}
+
+#header p {
+    font-size: 20px;
+    margin: 10px; 
+    text-align: right;
+    
+    
+}
+
+#left {
+    display: inline-block;
+    text-align: left;
+    width: 60%;
+    max-width: 60%;
+}
+
+#right {
+    display: inline-block;
+    text-align: right;
+    
+}
+
+#main-content {
+    height: 880px;
+    padding: 15px;
+    background: -webkit-linear-gradient(#28171d, #69535d, #28171d);
+    }
+
+#about {
+    display: inline-block;
+    background: linear-gradient(to right, #fefefe, #dbcdda);
+    height: 281px;
+    width: 483px;
+    vertical-align: top;
+    margin: 0 15px;
+    }
+
+#about a {
+    color: #191919;
+    margin: 0 15px;
+}
+
+h2 {
+    background: -webkit-linear-gradient(#b3b2b6, #888594, #b3b2b6);
+    height: 35px;
+    color: #fefefe;
+    padding: 15px 0 0 10px;
+    
+    
+}
+
+#about p {
+    margin: 10px; 
+}
+    
+    
+.web_info {
+    height: 580px;
+    width: 290px;
+    background: linear-gradient(to right, #fefefe, #dbcdda); 
+    margin: 15px 20px 10px 0;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.web_info p {
+    padding: 5px;
+}
+
+
+
+.main_image {
+    width: inherit;
+    height: 150px;
+}
+
+h3 {
+    width: 280px;
+    background: -webkit-linear-gradient(#b3b2b6, #888594, #b3b2b6);
+    color: #fefefe;
+    padding: 10px 0 10px 10px;
+    
+    
+    
+}
+
+.sm_image {
+    height: 37px;
+    width: 40px;
+    padding: 5px;
+    margin: 2px;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background: #407c61;
+    color: #fefefe;
+    box-shadow: 2px 3px 3px gray;
+    font-weight: bold;
+    padding: 5px;
+    display: block;
+    margin: auto;
+}
+
+button:hover {
+    background: #74b195;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+button:active {
+    background: #74b195;
+    border: 1px solid black;
+    transform: translateY(4px);
+}
+
+#lamode h3 {
+    margin: 70px 0 0 0;
+}
+
+
+#fam_cont h3 {
+    margin: 35px 0 0 0;
+}
+
+#footer {
+    text-align: center;}
+
+#footer img {
+    height: 20px;
+    width: 20px;
+    }
+
+#footer a {
+    color: #1a1516;
+}
+
+#footer li {
+    list-style: none;
+    display: inline;
+    
+}
+    
+
+    
